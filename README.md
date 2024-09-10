@@ -14,7 +14,7 @@ Instala las dependencias:
 npm install
 
 Crea un archivo .env en la raíz del proyecto con la siguiente información:
-CopyDB_HOST=localhost
+DB_HOST=localhost
 DB_USER=tu_usuario
 DB_PASSWORD=tu_contraseña
 DB_NAME=florista_db
